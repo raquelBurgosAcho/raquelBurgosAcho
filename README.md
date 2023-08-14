@@ -31,7 +31,7 @@
 
 ### Libraries / Packages / Modules
 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="75" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="40"/>
 ![CHALK](https://img.shields.io/badge/chalk-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PATH](https://img.shields.io/badge/path-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
 ![FS](https://img.shields.io/badge/fs-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -44,7 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=RaquelBurgos&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 <h3 align="center">📫 How to reach me: ...</h3>
 <div align="center">
-  <a href="mailto: raquelburgos13@hotmail.com.com" target="_blank">
+  <a href="mailto: raquelmaxi.burgos@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/raquel-burgos-acho/" target="_blank">
