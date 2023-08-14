@@ -25,6 +25,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
 </div>
+### Organization
+
+<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="70" height="40"/> </a> <a href="https://asana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg" alt="asana" width="70" height="40"/> </a>
+
+### Libraries / Packages / Modules
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="75" height="40"/> </a>
+![CHALK](https://img.shields.io/badge/chalk-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![PATH](https://img.shields.io/badge/path-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![FS](https://img.shields.io/badge/fs-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+![AXIOS](https://img.shields.io/badge/axios-%23777BB4.svg?style=for-the-badge&logo=java&logoColor=white)
+![JSDOM](https://img.shields.io/badge/jsdom-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 <br>
 <br>
